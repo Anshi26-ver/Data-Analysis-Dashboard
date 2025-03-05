@@ -20,7 +20,8 @@ The Power BI project aims to create a sales analysis report that highlights key 
 -Align all the charts and apply slicer to make it dynamic.
 
 ## Dashboard
-<a href="https://github.com/Anshi26-ver/Data-Analysis-Dashboard/blob/main/Screenshot%20(97).png">Dashboard</a>
+![Screenshot (97)](https://github.com/user-attachments/assets/cfffafd8-cb3b-40df-9bd5-9207b87503b1)
+
 
 
 
